@@ -1,0 +1,14 @@
+{
+  "name": "miladm/prototype_cli",
+  "description": "a simple cli for miladm/prototype",
+  "type": "script",
+  "license": "APACHE-2.0",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "MiladM",
+      "email": "miladmohebnia@gmail.com"
+    }
+  ],
+  "require": {}
+}
